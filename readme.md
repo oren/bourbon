@@ -2,6 +2,11 @@
 
 http://bourbon.io
 
+## Prerequisites
+
+* [docker](https://docs.docker.com/installation/mac)
+* [docker compose](https://docs.docker.com/compose/install)
+
 ## Setup
 
     docker-compose build
