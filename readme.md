@@ -2,7 +2,7 @@
 
 http://bourbon.io
 
-## Setup 
+## Setup
 
     docker-compose build
     docker-compose run app ./sass-watch
