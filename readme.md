@@ -15,7 +15,7 @@ This image is a template based on the Bourbon intro [video](https://www.youtube.
     docker-compose build
     docker-compose up      # watch sass files and compile them into css/app.css
 
-Open index.html in the browser and modify `css/3-layouts/home.sass` using your text editor.
+Open index.html in the browser and modify any sass or scss file using your text editor.
 
 ## Misc
 
