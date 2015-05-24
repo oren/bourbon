@@ -12,6 +12,8 @@ This image is a template based on the Bourbon intro [video](https://www.youtube.
 
 ## Setup
 
+    git clone git@github.com:oren/bourbon.git
+    cd bourbon
     docker-compose build
     docker-compose up      # watch sass files and compile them into css/app.css
 
