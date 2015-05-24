@@ -5,6 +5,6 @@ http://bourbon.io
 ## Setup
 
     docker-compose build
-    docker-compose up      # watch sass and compile app.sass into app.css
+    docker-compose up      # watch sass files and compile them into css/app.css
 
-Modify css/
+Open index.html in the browser and modify `css/3-layouts/home.sass` using your text editor.
