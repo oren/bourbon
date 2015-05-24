@@ -1,6 +1,7 @@
 # Docker image for Bourbon
 
-http://bourbon.io
+Bourbon is a lightweight mixin library for Sass - http://bourbon.io  
+This image is a template based on this introduction video for Bourbon - https://www.youtube.com/watch?v=8ItNE_DX6Cc
 
 ## Prerequisites
 
